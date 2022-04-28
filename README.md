@@ -1,7 +1,7 @@
 # THROTTLER
 
 ## Write a program to throttle a button onClick elements, or a search bar
-<p> example code
+### <p> example code
 function throttler(){
     // write code here
 }
